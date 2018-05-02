@@ -1,0 +1,114 @@
+Acharya,\={A}ch\={a}rya,Insegnante
+Adhikara,Adhikara,Indicazione primaria
+Agnimandya,Agnim\={a}ndya,Lentezza della digestione
+Alpata,Alpat\={a},Insignificante - minuscola
+Anupana,Anup\={a}na,Veicolo fluido in una medicina
+Anuvasana,Anuv\={a}sana,Enema oleoso
+Apana,Ap\={a}na,Uno dei cinque tipi di vata con direzione verso il basso
+Arocaka,Arocaka,Indigestione - desiderio o mancanza di appetito
+Bhaktadvesa,Bhaktadve\d{s}a,Perdita di appetito
+Dharana,Dh\={a}ra\d{n}\={a},Concentrazione
+Dosha,Do\d{s}a,Umore
+Dushti,Du\d{s}\d{t}i,Corruzione
+Gaurava,Gaurava,Pesantezza
+Grdhra,G\d{r}dhra,Avvoltoio
+Gridhra\={s}i,G\d{r}idhra\={s}i,Sciatica
+Gridhrasi,G\d{r}idhra\={s}i,Sciatica
+Hani,H\={a}ni,Perdita, diminuizione
+Jalauka,Jalauk\={a},Sanguisuga
+Jangha,Ja\.{n}gh\={a},Coscia
+Janghapindi,Ja\.{n}gh\={a}pi\d{n}\d{d}\={\i},Polpaccio
+Janu,J\={a}nu,Ginocchio
+Kandara,Ka\d{n}\d{d}ar\={a},Tendine - legamento
+Kati,Ka\d{t}\={\i},Parte bassa della schiena - vita
+Kriya,Kriy\={a},Azione del corpo
+Ksheera,K\d{s}\={\i}ra,Latte
+Laksana,Lak\d{s}a\d{n}a,Sintomo
+Lashuna,La\'{s}una,Aglio
+Madhuyasti,Madhuya\d{s}\d{t}i,Liquirizia
+Mukha-praseka,Mukha-praseka,Salivazione
+Nidana,Nid\={a}na,Cause primarie
+Niruha,Nir\={u}ha,Enema non di tipo oleoso
+Pada,P\={a}da,Piede
+Paka,P\={a}ka,Cuocere
+Pancha,Pa\~{n}ca,Cinque
+Prayoga,Prayoga,Uso terapeutico
+Pristha,P\d{r}\d{s}\d{t}ha, didietro - back of the body
+Pristhabhaga,P\d{r}\d{s}\d{t}abh\={a}ga,Parte posteriore
+Samhita,Sa\d{m}hit\={a},Raccolta ordinata di testi e versi
+Sevana,Sevana,Pratica
+Shakti,\'{S}akti,Energia - forza - abilità
+Shula,\'{S}\={u}la,Dolore
+Siravedha,Sir\={a}vedha,Veno-puntura
+Snehapana,Snehap\={a}na,Oleazione interna
+Spandana,Spandana, dolore pulsante
+Sphic,Sphic,Didietro, posteriore
+Stambha,Stambha,Rigidità - durezza - inflessibilità
+Tandra,Tandr\={a},Fiacchezza, mancanza di energie
+Toda,Toda,Dolore acuto, penetrante
+Uru,\={U}ru,Gamba
+Vacarana,Vacarana,Prelievo
+Vata,V\={a}ta,Vento
+Visravana,Visr\={a}va\d{n}a,Che causa perdita di sangue
+Viswaci,Vi\'{s}w\={a}ci,Disturbo simile alla sciatica ma che interessa gli arti superiori
+Vyadhi,Vy\={a}dhi,Malattia, disordine
+Vyana,Vy\={a}na,Una delle cinque arie vitali
+Vyayama,Vy\={a}y\={a}ma,Esercizio fisico
+
+
+acharya,\={a}ch\={a}rya,insegnante
+adhikara,adhikara,indicazione primaria
+agnimandya,agnim\={a}ndya,lentezza della digestione
+alpata,alpat\={a},insignificante - minuscola
+anupana,anup\={a}na,veicolo fluido in una medicina
+anuvasana,anuv\={a}sana,enema oleoso
+apana,ap\={a}na,uno dei cinque tipi di vata con direzione verso il basso
+arocaka,arocaka,indigestione - desiderio o mancanza di appetito
+bhaktadvesa,bhaktadve\d{s}a,perdita di appetito
+dharana,dh\={a}ra\d{n}\={a},concentrazione
+dosha,do\d{s}a,umore
+dushti,du\d{s}\d{t}i,corruzione
+gaurava,gaurava,pesantezza
+grdhra,g\d{r}dhra,avvoltoio
+gridhra\={s}i,g\d{r}idhra\={s}i,sciatica
+gridhrasi,g\d{r}idhra\={s}i,sciatica
+hani,h\={a}ni,perdita, diminuizione
+jalauka,jalauk\={a},sanguisuga
+jangha,ja\.{n}gh\={a},coscia
+janghapindi,ja\.{n}gh\={a}pi\d{n}\d{d}\={\i},polpaccio
+janu,j\={a}nu,ginocchio
+kandara,ka\d{n}\d{d}ar\={a},tendine - legamento
+kati,ka\d{t}\={\i},parte bassa della schiena - vita
+kriya,kriy\={a},azione del corpo
+ksheera,k\d{s}\={\i}ra,latte
+laksana,lak\d{s}a\d{n}a,sintomo
+lashuna,la\'{s}una,aglio
+madhuyasti,madhuya\d{s}\d{t}i,liquirizia
+mukha-praseka,mukha-praseka,salivazione
+nidana,nid\={a}na,cause primarie
+niruha,nir\={u}ha,enema non di tipo oleoso
+pada,p\={a}da,piede
+paka,p\={a}ka,cuocere
+pancha,pa\~{n}ca,cinque
+prayoga,prayoga,uso terapeutico
+pristha,p\d{r}\d{s}\d{t}ha, didietro - back of the body
+pristhabhaga,p\d{r}\d{s}\d{t}abh\={a}ga,parte posteriore
+samhita,sa\d{m}hit\={a},raccolta ordinata di testi e versi
+sevana,sevana,pratica
+shakti,\'{s}akti,energia - forza - abilità
+shula,\'{s}\={u}la,dolore
+siravedha,sir\={a}vedha,veno-puntura
+snehapana,snehap\={a}na,oleazione interna
+spandana,spandana, dolore pulsante
+sphic,sphic,didietro, posteriore
+stambha,stambha,rigidità - durezza - inflessibilità
+tandra,tandr\={a},fiacchezza, mancanza di energie
+toda,toda,dolore acuto, penetrante
+uru,\={u}ru,gamba
+vacarana,vacarana,prelievo
+vata,v\={a}ta,vento
+visravana,visr\={a}va\d{n}a,che causa perdita di sangue
+viswaci,vi\'{s}w\={a}ci,disturbo simile alla sciatica ma che interessa gli arti superiori
+vyadhi,vy\={a}dhi,malattia, disordine
+vyana,vy\={a}na,una delle cinque arie vitali
+vyayama,vy\={a}y\={a}ma,esercizio fisico

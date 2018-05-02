@@ -1,0 +1,60 @@
+Acharya,\={A}ch\={a}rya,Insegnante
+Adhikara,Adhikara,Indicazione primaria
+Agnimandya,Agnim\={a}ndya,Lentezza della digestione
+Alpata,Alpat\={a},Insignificante - minuscola
+Anupana,Anup\={a}na,Veicolo fluido in una medicina
+Anuvasana,Anuv\={a}sana,Enema oleoso
+Apana,Ap\={a}na,Uno dei cinque tipi di vata con direzione verso il basso
+Arocaka,Arocaka,Indigestione - desiderio o mancanza di appetito
+Avayava,Avajava,Arto
+Ayurveda,\={A}yurveda,Scienza della vita 
+Bhaktadvesa,Bhaktadve\d{s}a,Perdita di appetito
+Dharana,Dh\={a}ra\d{n}\={a},Concentrazione
+Dosha,Do\d{s}a,Umore
+Dushti,Du\d{s}\d{t}i,Corruzione
+Gaurava,Gaurava,Pesantezza
+Grdhra,G\d{r}dhra,Avvoltoio
+Gridhra\={s}i,G\d{r}idhra\={s}i,Sciatica
+Gridhrasi,G\d{r}idhra\={s}i,Sciatica
+Hani,H\={a}ni,Perdita - diminuizione
+Jalauka,Jalauk\={a},Sanguisuga
+Jangha,Ja\.{n}gh\={a},Coscia
+Janghapindi,Ja\.{n}gh\={a}pi\d{n}\d{d}\={\i},Polpaccio
+Janu,J\={a}nu,Ginocchio
+Kandara,Ka\d{n}\d{d}ar\={a},Tendine - legamento
+Kati,Ka\d{t}\={\i},Parte bassa della schiena - vita
+Kriya,Kriy\={a},Azione del corpo
+Ksheera,K\d{s}\={\i}ra,Latte
+Laksana,Lak\d{s}a\d{n}a,Sintomo
+Lashuna,La\'{s}una,Aglio
+Madhuyasti,Madhuya\d{s}\d{t}i,Liquirizia
+Mukha-praseka,Mukha-praseka,Salivazione
+Nidana,Nid\={a}na,Cause primarie
+Niruha,Nir\={u}ha,Enema non di tipo oleoso
+Pada,P\={a}da,Piede
+Paka,P\={a}ka,Cuocere
+Pancha,Pa\~{n}ca,Cinque
+Pradesa,Prade\'{s}a,Regione - posto - luogo
+Prayoga,Prayoga,Uso terapeutico
+Pristavamsha,P\d{r}\d{s}\d{t}ava\d{m}\'{s}ha,Colonna vertebrale
+Pristha,P\d{r}\d{s}\d{t}ha,Didietro - back of the body
+Pristhabhaga,P\d{r}\d{s}\d{t}abh\={a}ga,Parte posteriore
+Samhita,Sa\d{m}hit\={a},Raccolta ordinata di testi e versi
+Sevana,Sevana,Pratica
+Shakti,\'{S}akti,Energia - forza - abilità
+Shula,\'{S}\={u}la,Dolore
+Siravedha,Sir\={a}vedha,Veno-puntura
+Snehapana,Snehap\={a}na,Oleazione interna
+Spandana,Spandana,Dolore pulsante
+Sphic,Sphic,Didietro - posteriore
+Stambha,Stambha,Rigidità - durezza - inflessibilità
+Tandra,Tandr\={a},Fiacchezza - mancanza di energie
+Toda,Toda,Dolore acuto - dolore penetrante
+Uru,\={U}ru,Gamba
+Vacarana,Vacarana,Prelievo
+Vata,V\={a}ta,Vento
+Visravana,Visr\={a}va\d{n}a,Che causa perdita di sangue
+Viswaci,Vi\'{s}w\={a}ci,Disturbo simile alla sciatica ma che interessa gli arti superiori
+Vyadhi,Vy\={a}dhi,Malattia - disordine
+Vyana,Vy\={a}na,Una delle cinque arie vitali
+Vyayama,Vy\={a}y\={a}ma,Esercizio fisico

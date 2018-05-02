@@ -1,0 +1,433 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.23)  14 APR 2017 15:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dedica.tex
+(./dedica.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
+
+! LaTeX Error: Environment verse undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{verse}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{flushright}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no   in font cmti10!
+
+Overfull \hbox (12.57771pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 "A
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 me
+ []
+
+
+Overfull \hbox (28.36649pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 stessa,
+ []
+
+
+Overfull \hbox (14.311pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 che
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 mi
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 sp-
+ []
+
+
+Overfull \hbox (18.39989pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 ingo
+ []
+
+
+Overfull \hbox (14.82211pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 con
+ []
+
+
+Overfull \hbox (13.7999pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 en-
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 tu-
+ []
+
+
+Overfull \hbox (10.73326pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (22.48877pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 asmo
+ []
+
+
+Overfull \hbox (4.59996pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 e
+ []
+
+
+Overfull \hbox (13.54434pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 cu-
+ []
+
+
+Overfull \hbox (22.87207pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 riosit
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 nei
+ []
+
+
+Overfull \hbox (17.88876pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 sen-
+ []
+
+
+Overfull \hbox (18.27208pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 tieri
+ []
+
+
+Overfull \hbox (18.911pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 mis-
+ []
+
+
+Overfull \hbox (11.4999pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 te-
+ []
+
+
+Overfull \hbox (19.54988pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 riosi
+ []
+
+
+Overfull \hbox (20.44432pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 della
+ []
+
+
+Overfull \hbox (21.94043pt too wide) in paragraph at lines 7--8
+ \OT1/cmr/m/it/10 vita"
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no ¹ in font cmti10!
+
+Overfull \hbox (23.05542pt too wide) in paragraph at lines 9--10
+ []\OT1/cmr/m/it/10 "Alla
+ []
+
+
+Overfull \hbox (27.48317pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 Danza
+ []
+
+
+Overfull \hbox (4.59996pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 e
+ []
+
+
+Overfull \hbox (57.64961pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 all'[]Ayurveda,
+ []
+
+
+Overfull \hbox (14.311pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 che
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 mi
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 ac-
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 com-
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 pa-
+ []
+
+
+Overfull \hbox (8.1777pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 g-
+ []
+
+
+Overfull \hbox (21.46655pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 nano
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (27.0887pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 questo
+ []
+
+
+Overfull \hbox (20.9554pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 cam-
+ []
+
+
+Overfull \hbox (21.97766pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 mino
+ []
+
+
+Overfull \hbox (4.59996pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 e
+ []
+
+
+Overfull \hbox (21.97762pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 come
+ []
+
+
+Overfull \hbox (15.07768pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 due
+ []
+
+
+Overfull \hbox (11.75548pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 pi-
+ []
+
+
+Overfull \hbox (15.33324pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 las-
+ []
+
+
+Overfull \hbox (10.60547pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 tri
+ []
+
+
+Overfull \hbox (11.24438pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 mi
+ []
+
+
+Overfull \hbox (26.57764pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 hanno
+ []
+
+
+Overfull \hbox (40.63307pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 sostenuta
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 nei
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 mo-
+ []
+
+
+Overfull \hbox (24.78873pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 menti
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 pi
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 dif-
+ []
+
+
+Overfull \hbox (9.19994pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 fi-
+ []
+
+
+Overfull \hbox (19.12935pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/m/it/10 cili"
+ []
+
+
+Overfull \hbox (13.31102pt too wide) in paragraph at lines 14--15
+ []\OT1/cmr/m/it/10 'Ai
+ []
+
+
+Overfull \hbox (18.911pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 miei
+ []
+
+
+Overfull \hbox (16.4832pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 cari
+ []
+
+
+Overfull \hbox (23.51097pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 senza
+ []
+
+
+Overfull \hbox (3.06665pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 i
+ []
+
+
+Overfull \hbox (20.69987pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 quali
+ []
+
+
+Overfull \hbox (33.98859pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 perderei
+ []
+
+
+Overfull \hbox (5.6222pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 il
+ []
+
+
+Overfull \hbox (27.8193pt too wide) in paragraph at lines 14--15
+ \OT1/cmr/m/it/10 senso'
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no ¨ in font cmti10!
+
+Overfull \hbox (10.49994pt too wide) in paragraph at lines 16--17
+ []\OT1/cmr/m/it/10 'A
+ []
+
+
+Overfull \hbox (27.0887pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 questo
+ []
+
+
+Overfull \hbox (11.24434pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 bel
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 vi-
+ []
+
+
+Overfull \hbox (13.28879pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 ag-
+ []
+
+
+Overfull \hbox (12.7777pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 gio
+ []
+
+
+Overfull \hbox (14.311pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 che
+ []
+
+
+Overfull \hbox (7.66663pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 la
+ []
+
+
+Overfull \hbox (20.40822pt too wide) in paragraph at lines 16--17
+ \OT1/cmr/m/it/10 vita'
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{verse}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \end{verse}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> dedica.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 494447
+ 161 string characters out of 6166765
+ 49243 words of memory out of 5000000
+ 3445 multiletter control sequences out of 15000+600000
+ 3986 words of font info for 15 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 14i,1n,10p,172b,117s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

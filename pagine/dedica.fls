@@ -1,0 +1,7 @@
+PWD /Users/gtrecari/Documents/Ayurveda/TESI/latex/template
+INPUT /usr/local/texlive/2016basic/texmf.cnf
+INPUT /usr/local/texlive/2016basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016basic/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT dedica.tex
+OUTPUT dedica.log
+INPUT /usr/local/texlive/2016basic/texmf-dist/fonts/tfm/public/cm/cmti10.tfm

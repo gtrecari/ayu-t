@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/gtrecari/Documents/Ayurveda/TESI/latex",
+			"file_exclude_patterns": [
+              "*.key",
+              "*.aux",
+              "*.log",
+              "*.pdf",
+              "*.fdb",
+              "*.nav",
+              "*.snm",
+              "*.out",
+              "*.gz",
+              "*.dtx",
+              "*.ins",
+              "*.lot",
+              "*.lof",
+              "*.fls",
+              "*.sty"
+
+              ]
+		}
+	]
+}
